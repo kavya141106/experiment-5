@@ -1,0 +1,8 @@
+/* Complementary styles for weather cards */
+#weatherResult {
+    transition: all 0.3s ease-in-out;
+}
+
+.quick-btn {
+    margin: 2px;
+}
